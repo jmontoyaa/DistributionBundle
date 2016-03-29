@@ -1,5 +1,5 @@
 {
-    "name": "oro/distribution-bundle",
+    "name": "jmontoyaa/distribution-bundle",
     "type": "symfony-bundle",
     "description": "Oro Distribution Bundle",
     "keywords": ["BAP"],
